@@ -92,3 +92,5 @@ bind - split-window -v -c "#{pane_current_path}"         # prefix - 上下分屏
 ## License
 
 MIT © 2026 Guangyi Zhao，详见 [LICENSE](LICENSE)。
+
+📣 Telegram 频道：https://t.me/EzraZhao777（各平台的更新都同步到这里）
